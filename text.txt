@@ -1,0 +1,17 @@
+Assembler - dilinin kom?yi il? insan ucun ayd?n s?kild?  prosessorlara komandalar yaz?l?r .
+ ?slind? prosessorlar s?f?rlardan v? birl?rd?n ibar?t ard?c?ll?g? baua dusur. Assemblerin komandalari basa dusmur.
+Kompilyator Assemlerin komadaar? prosessorlar?n komandalar?na cevirir.
+Assemblerl?  yaz?lm?s proqramlar  mas?n dilind? yaz?lm?s progrlamlardan sur?ti il? geri qalm?r,
+Kompilyator sad?c? mnevnotik komandaral? baytlar?n ard?c?ll?g?na cevirir.
+Yuks?k s?viyy?li dill?r movcuddur.hans?ki eyni billikn?n v? yaddasnan h?min dill?rd? daha c?tin programlar yazmaq mumkundur.
+
+?m?liyyat sisteml?ri v? ya onlar?n Komponentl?rinin yarad?lmas?.
+Drayverl?rin yarad?lmas?.
+Assembler dili BIOS "q?l?ml?ri" yarad?lmas? ucun istifad? olunur.
+Antiviruslarin v? dig?r qoruyucu programlar?n yarad?lmas?.
+Programlasd?rma dillerinin translyatorlar?n?n yaz?lmas?.
+
+
+Dig?r platformalar  ucun kecirilm?m?zliyi(ikili sisteml?rd?n basqa)
+muasir  proqramlasd?rma dill?ri il? muqayis?d? az sayda kitabxanalar?n?n olmasi.
+
