@@ -1,0 +1,8 @@
+C-universal programlasd?rma dilidir. 
+Unix sistem? s?x bagl?d?r cunki bu sistemd? haz?rlan?b v? bu sistemd? isl?y?n cox program C-d? yaz?l?b.
+Amma C hans?sa ?m?liyyat sistem? v? ya hams?sa mas?na baglanbayib.Halbuki ?m?liyyat sistemi dili adlanir
+ cunki  ?m?liyyat sisteml?ri v? kompilyatorlardan yaz?lmas? ucun ?lverislidir
+v? basqa profill?r ucun boyuk programlar yazmaq asantd?r.
+C-nisb?t?n asag? s?viyy?li dildir Lakin bu hec d? onun ustunlukl?ri azaltm?r.sad?c? C chox kompyuterl?r?n?n isl?y? bilir.
+Onlarlan real mas?nlarnan apar?ld?g?  Hesab v? m?ntiqi ?m?liyyatlar? aparmaq olar.
+
